@@ -16,14 +16,11 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-<a href="https://www.codechef.com/users/roopesh38" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+<a href="https://leetcode.com/u/Roopesh_kumar1/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/@roopeshkumarbxr1" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" height="30" width="40" />
+<a href="https://www.geeksforgeeks.org/profile/roopeshkum2p7c?tab=activity" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" height="30" width="40" />
 </a>
 </p>
 
