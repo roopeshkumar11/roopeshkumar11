@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **MERN Stack Projects**  
 - 🌱 I’m currently learning **Advanced React & Backend Development**  
 - 💬 Ask me about **React, Node.js, Express, MongoDB**  
-- 📫 How to reach me: **roopeshkumarbxr2017@gmail.com**  
+- 📫 How to reach me: **roopeshkumar0008@gmail.com**  
 - ⚡ Fun fact: I love building full-stack apps  
 
 ---
